@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Desktop\\data_structure_lab\\Lec04_Array_Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDD3AF9-03FF-4187-9FAC-891E4BE91940}|Polynomial_Class\\Polynomial_Class.vcxproj|C:\\Mac\\Home\\Desktop\\data_structure_lab\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BDD3AF9-03FF-4187-9FAC-891E4BE91940}|Polynomial_Class\\Polynomial_Class.vcxproj|solutionrelative:Polynomial_Class\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C9A579-3D9B-4966-B889-C7B296F03E99}|Complex_Class\\Complex_Class.vcxproj|C:\\Mac\\Home\\Desktop\\data_structure_lab\\Lec04_Array_Class\\Complex_Class\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48C9A579-3D9B-4966-B889-C7B296F03E99}|Complex_Class\\Complex_Class.vcxproj|solutionrelative:Complex_Class\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F93B150-87F0-4236-B8DA-873CB8E8ABE5}|Car_Class\\Car_Class.vcxproj|C:\\Mac\\Home\\Desktop\\data_structure_lab\\Lec04_Array_Class\\Car_Class\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F93B150-87F0-4236-B8DA-873CB8E8ABE5}|Car_Class\\Car_Class.vcxproj|solutionrelative:Car_Class\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F93B150-87F0-4236-B8DA-873CB8E8ABE5}|Car_Class\\Car_Class.vcxproj|C:\\Mac\\Home\\Desktop\\data_structure_lab\\Lec04_Array_Class\\Car_Class\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F93B150-87F0-4236-B8DA-873CB8E8ABE5}|Car_Class\\Car_Class.vcxproj|solutionrelative:Car_Class\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\Mac\\Home\\Desktop\\Lec04_Array_Class\\Complex_Class\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\Mac\\Home\\Desktop\\Lec04_Array_Class\\Complex_Class\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.h",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\data_structure_lab\\Lec04_Array_Class\\Car_Class\\Car.h",
+              "RelativeDocumentMoniker": "Car_Class\\Car.h",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\data_structure_lab\\Lec04_Array_Class\\Car_Class\\Car.h",
+              "RelativeToolTip": "Car_Class\\Car.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-10T09:25:53.58Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.h",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Lec04_Array_Class\\Complex_Class\\Car.h",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Lec04_Array_Class\\Complex_Class\\Car.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-10T09:26:00.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\data_structure_lab\\Lec04_Array_Class\\Car_Class\\main.cpp",
+              "RelativeDocumentMoniker": "Car_Class\\main.cpp",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\data_structure_lab\\Lec04_Array_Class\\Car_Class\\main.cpp",
+              "RelativeToolTip": "Car_Class\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T09:25:32.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Lec04_Array_Class\\Complex_Class\\main.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Lec04_Array_Class\\Complex_Class\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T09:25:16.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Polynomial.h",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\data_structure_lab\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.h",
+              "RelativeDocumentMoniker": "Polynomial_Class\\Polynomial.h",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\data_structure_lab\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.h",
+              "RelativeToolTip": "Polynomial_Class\\Polynomial.h",
+              "ViewState": "AgIAAAcAAACANDMzMzMvwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-10T09:18:53.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\data_structure_lab\\Lec04_Array_Class\\Complex_Class\\main.cpp",
+              "RelativeDocumentMoniker": "Complex_Class\\main.cpp",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\data_structure_lab\\Lec04_Array_Class\\Complex_Class\\main.cpp",
+              "RelativeToolTip": "Complex_Class\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T09:18:25.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
