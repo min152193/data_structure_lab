@@ -8,6 +8,8 @@ int main() {
     stack.push(Student(202524090, "±èÀ±±â", "ÀüÀÚ°øÇĞºÎ"));
 
     stack.display();
+    stack.peek();
+    stack.pop();
     stack.pop();
     stack.display();
 

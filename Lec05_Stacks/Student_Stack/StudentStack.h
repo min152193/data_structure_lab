@@ -17,14 +17,14 @@ class Student {
     char name[MAX_STRING];
     char dept[MAX_STRING];
 public:
-    Student(int i = 0, const char* n = "", const char* d = "") { set(i, n, d); }
+	Student(int i = 0, const char* n = "", const char* d = "") { set(i, n, d); } //학생 생성자
     void set(int i, const char* n, const char* d) {
         id = i;
         strcpy_s(name, n);
         strcpy_s(dept, d);
     }
     void display() {
-        printf("  학번:%-15d 성명:%-10s 학과:%-20s\n", id, name, dept);
+		printf("  학번:%-15d 성명:%-10s 학과:%-20s\n", id, name, dept); //학생 정보 출력, 빈칸확보 위해 %-15d, %-10s, %-20s 사용
     }
 };
 
