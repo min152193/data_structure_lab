@@ -1,0 +1,44 @@
+# Astro build output
+dist/
+
+# Dependencies
+node_modules/
+
+# Astro cache/metadata
+.astro/
+
+# Environment files / Secrets
+.env
+.env.*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Visual Studio Cache and Build outputs
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+ARM64/
+*.VisualSTudio.gitignore
+
+# Compilations outputs
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.recipe
+*.ipch
+*.db
+*.db-shm
+*.db-wal
+*.vsidx
+*.suo
+*.wsuo
